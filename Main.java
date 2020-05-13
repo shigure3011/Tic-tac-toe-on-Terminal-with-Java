@@ -1,6 +1,5 @@
-package tictactoe;
 import java.util.Scanner;
-public class Main {
+public class TicTacToe {
     private String cells = "         ";
     private int countX = 0;
     private int countO = 0;
